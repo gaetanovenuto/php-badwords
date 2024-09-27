@@ -16,7 +16,7 @@
         
         <div class="my-text-container">
             <label for="text" style="display: block; padding-bottom: 10px">
-                Inserisci una parola
+                Inserisci una parola da censurare
             </label>
             <input type="text" value="" name="yourWord" placeholder="Inserisci una parola">
         </div>
